@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--languages used-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techoflashh&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pingu-73&theme=tokyonight)
