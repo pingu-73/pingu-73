@@ -63,6 +63,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
 
+<br/>
+
+<div align="left">
+   <h2 align="left">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Bungee+Spice&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&color=F75C30&lines=My+Contributions;" />
+   </h2>
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pingu-73/pingu-73/output/github-contribution-grid-snake.svg" />
+  
+
+</div>
+
 
 <!---
 pingu-73/pingu-73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
