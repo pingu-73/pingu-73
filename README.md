@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="xcode logo"  />
   <img width="12" />
